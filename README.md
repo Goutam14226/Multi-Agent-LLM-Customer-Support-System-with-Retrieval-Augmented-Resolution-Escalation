@@ -189,8 +189,6 @@ else:
 ## Authors
 
 * Goutam Agarwal
-* Shoumik Das
-* Sandipan Mondal
 
 ## Course Information
 
